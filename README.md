@@ -1,6 +1,6 @@
 
 ## Ticket-app
-Introduction
+
 This application is designed to simplify ticket management. You can easily create tickets, group them, track their progress, and perform basic CRUD operations. It's a useful tool for individuals and teams to keep track of tasks, issues, or any other items that require attention.
 
 Features
